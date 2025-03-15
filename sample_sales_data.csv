@@ -1,0 +1,101 @@
+Continent,Country,City,Sales,Quantity,Profit
+North America,Mexico,Monterrey,4892.93,30,841.99
+South America,Argentina,Buenos Aires,6707.4,40,861.58
+Africa,Egypt,Giza,4346.93,18,561.89
+Australia,Australia,Sydney,1670.05,48,207.07
+Asia,India,Mumbai,6689.74,10,1971.64
+North America,Canada,Montreal,378.85,42,108.44
+Australia,New Zealand,Auckland,8966.32,48,2523.44
+Africa,South Africa,Cape Town,6545.07,7,404.31
+Africa,Nigeria,Abuja,5035.45,20,747.73
+South America,Chile,Valparaiso,3664.09,19,1012.36
+North America,USA,Los Angeles,2205.83,16,509.63
+Asia,India,Mumbai,7920.71,4,2213.34
+Asia,China,Shanghai,7557.8,29,793.21
+Australia,New Zealand,Christchurch,8223.09,18,776.33
+South America,Brazil,Rio de Janeiro,7266.82,11,2171.99
+South America,Brazil,Brasilia,3425.58,21,394.06
+South America,Chile,Santiago,1386.93,12,375.57
+Europe,UK,London,957.16,27,56.89
+Europe,Germany,Berlin,4359.04,45,445.04
+Asia,India,Bangalore,7869.55,48,1807.85
+South America,Brazil,Sao Paulo,5601.43,32,363.63
+Africa,Egypt,Giza,9320.04,45,1458.91
+Africa,Nigeria,Kano,7707.47,36,1633.39
+Australia,New Zealand,Auckland,8461.77,6,875.52
+Asia,Japan,Tokyo,123.58,9,23.4
+Europe,France,Lyon,3391.78,17,882.78
+North America,USA,New York,3732.52,37,895.14
+Australia,Australia,Sydney,693.22,10,163.82
+North America,Canada,Toronto,5841.85,43,1273.07
+South America,Chile,Valparaiso,1120.64,16,74.99
+North America,USA,New York,9009.13,24,1917.04
+South America,Argentina,Cordoba,4077.35,25,255.25
+Australia,Australia,Brisbane,2429.03,16,399.49
+Asia,Japan,Osaka,2129.26,27,411.31
+North America,Mexico,Monterrey,6545.11,38,1904.81
+South America,Argentina,Buenos Aires,3140.69,12,825.03
+Europe,Germany,Hamburg,2678.69,15,614.79
+Asia,China,Beijing,9299.57,48,1106.26
+Asia,China,Shanghai,6273.96,34,1882.01
+Australia,Australia,Sydney,1935.25,3,393.45
+South America,Argentina,Rosario,529.34,21,92.52
+Europe,Germany,Munich,2622.8,3,176.64
+Africa,Egypt,Cairo,5084.8,31,973.22
+Asia,China,Shenzhen,5287.54,15,758.42
+North America,USA,Chicago,1134.55,48,199.02
+Australia,Australia,Sydney,8105.04,13,1278.31
+North America,Mexico,Monterrey,7364.03,6,1985.71
+Australia,New Zealand,Wellington,6672.09,31,398.04
+North America,Canada,Toronto,9666.62,45,841.39
+Africa,Nigeria,Kano,9753.87,47,2123.06
+South America,Brazil,Brasilia,7320.54,47,670.45
+Australia,Australia,Brisbane,1238.05,9,336.02
+Africa,Nigeria,Kano,4705.34,43,831.64
+South America,Brazil,Rio de Janeiro,6567.94,43,1718.73
+Australia,Australia,Brisbane,2405.18,21,126.98
+North America,USA,Los Angeles,933.96,8,146.39
+North America,Canada,Vancouver,4137.0,12,879.31
+North America,Canada,Montreal,5230.06,36,1274.78
+Europe,UK,Manchester,4634.54,32,1360.38
+Asia,China,Beijing,2796.33,43,380.7
+South America,Brazil,Brasilia,4450.5,18,625.64
+South America,Chile,Concepcion,1362.14,40,120.87
+South America,Brazil,Brasilia,8397.03,23,751.43
+Africa,Nigeria,Abuja,5339.19,34,1127.6
+Asia,India,Delhi,7934.38,46,1365.95
+Asia,India,Mumbai,3356.35,41,446.24
+Australia,New Zealand,Christchurch,3562.54,28,633.82
+Europe,Germany,Munich,907.75,47,59.53
+Africa,Egypt,Giza,2953.43,26,474.31
+Asia,India,Delhi,2865.22,15,204.45
+North America,Mexico,Mexico City,7249.15,42,1703.33
+North America,Canada,Montreal,1299.62,20,242.34
+North America,USA,New York,1097.89,50,230.21
+Australia,Australia,Melbourne,2060.6,1,429.13
+Europe,Germany,Munich,6760.24,41,631.87
+Asia,India,Mumbai,5917.74,46,580.24
+North America,Canada,Toronto,3229.94,44,621.42
+Australia,Australia,Brisbane,2594.81,42,360.15
+Asia,India,Delhi,8098.35,47,2053.69
+Europe,Germany,Hamburg,2547.88,15,411.73
+Asia,China,Shanghai,1428.23,45,408.77
+North America,USA,Los Angeles,9110.96,23,1481.41
+South America,Argentina,Buenos Aires,5087.59,4,551.28
+Europe,France,Marseille,7932.91,3,1349.02
+North America,Mexico,Monterrey,366.94,49,58.96
+Africa,South Africa,Durban,4583.26,8,455.15
+Europe,Germany,Munich,4043.61,10,1128.0
+North America,Canada,Vancouver,6000.84,16,1739.0
+North America,Mexico,Mexico City,8562.74,31,2432.19
+Asia,India,Delhi,5380.77,50,1184.12
+South America,Argentina,Cordoba,6974.31,14,1159.61
+Asia,Japan,Osaka,5253.08,5,1390.98
+Africa,South Africa,Cape Town,7444.41,5,2013.85
+Australia,New Zealand,Wellington,6426.85,10,580.49
+North America,Canada,Montreal,3812.57,26,1053.29
+Australia,New Zealand,Wellington,5343.95,27,1330.53
+North America,Canada,Toronto,4688.23,5,1002.05
+Europe,Germany,Munich,6353.6,8,716.27
+North America,Canada,Toronto,9915.54,43,1367.13
+South America,Chile,Concepcion,905.41,47,108.68
